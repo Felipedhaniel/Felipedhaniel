@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, sou o Felipe Dhaniel 👋
 
-<!--
-**Felipedhaniel/Felipedhaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudande de TI
+- 🌱 Evolução
+  
+### Soft skills
+Flexibilidade: Capacidade de se adaptar a novas situações e mudanças de prioridades com facilidade e eficácia.
 
-Here are some ideas to get you started:
+Aprendizado Contínuo: Motivação para adquirir novos conhecimentos e habilidades, buscando sempre melhorar o desempenho pessoal e profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Clareza: Capacidade de expressar ideias de forma concisa e compreensível, adaptando a comunicação ao público-alvo.
+
+###  hard skills
+<div style = "dusplay:inline_block;>
+  
+<img src="https://github.com/user-attachments/assets/81729159-06c3-4b92-9398-a19179078a29">
+<img src="https://github.com/user-attachments/assets/81729159-06c3-4b92-9398-a19179078a29">
+<img src="https://github.com/user-attachments/assets/81729159-06c3-4b92-9398-a19179078a29">
+<img src="https://github.com/user-attachments/assets/81729159-06c3-4b92-9398-a19179078a29">
+<img src="https://github.com/user-attachments/assets/81729159-06c3-4b92-9398-a19179078a29">
+
+</div>
+
