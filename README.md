@@ -3,7 +3,7 @@
 
 🎓 Área de Estudo: Tecnologia da Informação
 
-📚 Instituição: [QI]
+📚 Instituição: [QI Faculdade & Escola Técnica:]
 
 ### O que você encontrará aqui?
 
